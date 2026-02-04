@@ -1,0 +1,17 @@
+{
+  "name": "BTTI Token List",
+  "logoURI": "https://raw.githubusercontent.com/Mytokenusdt-blip/btti-assets/main/logo.png",
+  "keywords": ["btti"],
+  "timestamp": "2026-02-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xa736468e70fcf79d08f683d52664d3895c6e96f3",
+      "name": "BTTI Coin",
+      "symbol": "BTTI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Mytokenusdt-blip/btti-assets/main/logo.png"
+    }
+  ],
+  "version": { "major": 1, "minor": 0, "patch": 0 }
+}
